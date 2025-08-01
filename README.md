@@ -37,3 +37,16 @@ Clean and user-friendly interface
 Responsive and mobile-friendly design
 Simple and modular codebase for easy understanding and modification
 Error handling for invalid city names or network issues
+
+
+
+
+
+
+
+
+
+
+
+output:
+<img width="1919" height="1015" alt="Image" src="https://github.com/user-attachments/assets/ddece3c2-22e6-4e0e-8a19-6ebc6ae4939e" />
